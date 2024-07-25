@@ -1,0 +1,82 @@
+{
+  "313": {
+    "x": 382,
+    "y": 0,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "jem": {
+    "x": 0,
+    "y": 0,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "burgerking": {
+    "x": 73,
+    "y": 0,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "gopizza": {
+    "x": 146,
+    "y": 0,
+    "width": 72,
+    "height": 63,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "myvillage": {
+    "x": 218,
+    "y": 0,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "greentree": {
+    "x": 291,
+    "y": 0,
+    "width": 18,
+    "height": 30,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "parkwayparade": {
+    "x": 309,
+    "y": 0,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "plq": {
+    "x": 455,
+    "y": 0,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "ampstea": {
+    "x": 528,
+    "y": 0,
+    "width": 72,
+    "height": 63,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "saladstop": {
+    "x": 600,
+    "y": 0,
+    "width": 72,
+    "height": 63,
+    "pixelRatio": 1,
+    "visible": true
+  }
+}
