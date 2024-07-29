@@ -1,30 +1,22 @@
 {
   "313": {
-    "x": 435,
+    "x": 579,
     "y": 0,
     "width": 145,
     "height": 156,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "ampstea": {
+    "x": 0,
+    "y": 0,
+    "width": 144,
+    "height": 125,
     "pixelRatio": 1,
     "visible": true
   },
   "myvillage": {
-    "x": 0,
-    "y": 0,
-    "width": 145,
-    "height": 156,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "jem": {
-    "x": 145,
-    "y": 0,
-    "width": 145,
-    "height": 156,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "plq": {
-    "x": 290,
+    "x": 144,
     "y": 0,
     "width": 145,
     "height": 156,
@@ -32,7 +24,23 @@
     "visible": true
   },
   "parkwayparade": {
-    "x": 580,
+    "x": 289,
+    "y": 0,
+    "width": 145,
+    "height": 156,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "plq": {
+    "x": 434,
+    "y": 0,
+    "width": 145,
+    "height": 156,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "jem": {
+    "x": 724,
     "y": 0,
     "width": 145,
     "height": 156,
@@ -40,7 +48,7 @@
     "visible": true
   },
   "burgerking": {
-    "x": 725,
+    "x": 869,
     "y": 0,
     "width": 145,
     "height": 156,
@@ -48,14 +56,6 @@
     "visible": true
   },
   "gopizza": {
-    "x": 870,
-    "y": 0,
-    "width": 144,
-    "height": 125,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "saladstop": {
     "x": 1014,
     "y": 0,
     "width": 144,
@@ -63,27 +63,27 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "greentree": {
+  "saladstop": {
     "x": 1158,
     "y": 0,
-    "width": 18,
-    "height": 30,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "amptea": {
-    "x": 1176,
-    "y": 0,
-    "width": 140,
+    "width": 144,
     "height": 125,
     "pixelRatio": 1,
     "visible": true
   },
   "kithcafe": {
-    "x": 1316,
+    "x": 1302,
     "y": 0,
     "width": 144,
     "height": 125,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "greentree": {
+    "x": 1446,
+    "y": 0,
+    "width": 18,
+    "height": 30,
     "pixelRatio": 1,
     "visible": true
   }
