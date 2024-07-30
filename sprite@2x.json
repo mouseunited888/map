@@ -1,89 +1,105 @@
 {
   "313": {
-    "x": 579,
+    "x": 0,
     "y": 0,
-    "width": 145,
-    "height": 156,
+    "width": 73,
+    "height": 78,
     "pixelRatio": 1,
     "visible": true
   },
   "ampstea": {
-    "x": 0,
+    "x": 73,
     "y": 0,
-    "width": 144,
-    "height": 125,
+    "width": 72,
+    "height": 63,
     "pixelRatio": 1,
     "visible": true
   },
-  "myvillage": {
-    "x": 144,
+  "Brand Icon V1": {
+    "x": 145,
     "y": 0,
-    "width": 145,
-    "height": 156,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "parkwayparade": {
-    "x": 289,
-    "y": 0,
-    "width": 145,
-    "height": 156,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "plq": {
-    "x": 434,
-    "y": 0,
-    "width": 145,
-    "height": 156,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "jem": {
-    "x": 724,
-    "y": 0,
-    "width": 145,
-    "height": 156,
+    "width": 34,
+    "height": 39,
     "pixelRatio": 1,
     "visible": true
   },
   "burgerking": {
-    "x": 869,
+    "x": 179,
     "y": 0,
-    "width": 145,
-    "height": 156,
+    "width": 73,
+    "height": 78,
     "pixelRatio": 1,
     "visible": true
   },
   "gopizza": {
-    "x": 1014,
+    "x": 252,
     "y": 0,
-    "width": 144,
-    "height": 125,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "saladstop": {
-    "x": 1158,
-    "y": 0,
-    "width": 144,
-    "height": 125,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "kithcafe": {
-    "x": 1302,
-    "y": 0,
-    "width": 144,
-    "height": 125,
+    "width": 72,
+    "height": 63,
     "pixelRatio": 1,
     "visible": true
   },
   "greentree": {
-    "x": 1446,
+    "x": 324,
     "y": 0,
     "width": 18,
     "height": 30,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "jem": {
+    "x": 342,
+    "y": 0,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "myvillage": {
+    "x": 415,
+    "y": 0,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "parkwayparade": {
+    "x": 488,
+    "y": 0,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "plq": {
+    "x": 561,
+    "y": 0,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "Silver Coin Found Flag": {
+    "x": 634,
+    "y": 0,
+    "width": 60,
+    "height": 86,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "saladstop": {
+    "x": 694,
+    "y": 0,
+    "width": 72,
+    "height": 63,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "Kith Cafe 2": {
+    "x": 766,
+    "y": 0,
+    "width": 72,
+    "height": 63,
     "pixelRatio": 1,
     "visible": true
   }
