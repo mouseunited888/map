@@ -2,45 +2,37 @@
   "313": {
     "x": 0,
     "y": 0,
-    "width": 73,
-    "height": 78,
+    "width": 145,
+    "height": 156,
     "pixelRatio": 1,
     "visible": true
   },
   "ampstea": {
-    "x": 73,
-    "y": 0,
-    "width": 72,
-    "height": 63,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "Brand Icon V1": {
     "x": 145,
     "y": 0,
-    "width": 34,
-    "height": 39,
+    "width": 144,
+    "height": 125,
     "pixelRatio": 1,
     "visible": true
   },
   "burgerking": {
-    "x": 179,
+    "x": 289,
     "y": 0,
-    "width": 73,
-    "height": 78,
+    "width": 145,
+    "height": 156,
     "pixelRatio": 1,
     "visible": true
   },
   "gopizza": {
-    "x": 252,
+    "x": 434,
     "y": 0,
-    "width": 72,
-    "height": 63,
+    "width": 144,
+    "height": 125,
     "pixelRatio": 1,
     "visible": true
   },
   "greentree": {
-    "x": 324,
+    "x": 578,
     "y": 0,
     "width": 18,
     "height": 30,
@@ -48,58 +40,58 @@
     "visible": true
   },
   "jem": {
-    "x": 342,
+    "x": 596,
     "y": 0,
-    "width": 73,
-    "height": 78,
+    "width": 145,
+    "height": 156,
     "pixelRatio": 1,
     "visible": true
   },
-  "myvillage": {
-    "x": 415,
+  "kithcafe": {
+    "x": 741,
     "y": 0,
-    "width": 73,
-    "height": 78,
+    "width": 144,
+    "height": 125,
     "pixelRatio": 1,
     "visible": true
   },
   "parkwayparade": {
-    "x": 488,
+    "x": 885,
     "y": 0,
-    "width": 73,
-    "height": 78,
+    "width": 145,
+    "height": 156,
     "pixelRatio": 1,
     "visible": true
   },
-  "plq": {
-    "x": 561,
+  "myvillage": {
+    "x": 1030,
     "y": 0,
-    "width": 73,
-    "height": 78,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "Silver Coin Found Flag": {
-    "x": 634,
-    "y": 0,
-    "width": 60,
-    "height": 86,
+    "width": 145,
+    "height": 156,
     "pixelRatio": 1,
     "visible": true
   },
   "saladstop": {
-    "x": 694,
+    "x": 1175,
     "y": 0,
-    "width": 72,
-    "height": 63,
+    "width": 144,
+    "height": 125,
     "pixelRatio": 1,
     "visible": true
   },
-  "Kith Cafe 2": {
-    "x": 766,
+  "plq": {
+    "x": 1319,
     "y": 0,
-    "width": 72,
-    "height": 63,
+    "width": 145,
+    "height": 156,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "sfjuice": {
+    "x": 1464,
+    "y": 0,
+    "width": 145,
+    "height": 156,
     "pixelRatio": 1,
     "visible": true
   }

@@ -15,48 +15,48 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "Brand Icon V1": {
-    "x": 145,
-    "y": 0,
-    "width": 34,
-    "height": 39,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "burgerking": {
-    "x": 179,
-    "y": 0,
-    "width": 73,
-    "height": 78,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "gopizza": {
-    "x": 252,
-    "y": 0,
-    "width": 72,
-    "height": 63,
-    "pixelRatio": 1,
-    "visible": true
-  },
   "greentree": {
-    "x": 324,
+    "x": 145,
     "y": 0,
     "width": 18,
     "height": 30,
     "pixelRatio": 1,
     "visible": true
   },
-  "jem": {
-    "x": 342,
+  "gopizza": {
+    "x": 163,
+    "y": 0,
+    "width": 72,
+    "height": 63,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "burgerking": {
+    "x": 235,
     "y": 0,
     "width": 73,
     "height": 78,
     "pixelRatio": 1,
     "visible": true
   },
+  "jem": {
+    "x": 308,
+    "y": 0,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "kithcafe": {
+    "x": 381,
+    "y": 0,
+    "width": 72,
+    "height": 63,
+    "pixelRatio": 1,
+    "visible": true
+  },
   "myvillage": {
-    "x": 415,
+    "x": 453,
     "y": 0,
     "width": 73,
     "height": 78,
@@ -64,7 +64,7 @@
     "visible": true
   },
   "parkwayparade": {
-    "x": 488,
+    "x": 526,
     "y": 0,
     "width": 73,
     "height": 78,
@@ -72,34 +72,26 @@
     "visible": true
   },
   "plq": {
-    "x": 561,
+    "x": 599,
     "y": 0,
     "width": 73,
     "height": 78,
     "pixelRatio": 1,
     "visible": true
   },
-  "Silver Coin Found Flag": {
-    "x": 634,
-    "y": 0,
-    "width": 60,
-    "height": 86,
-    "pixelRatio": 1,
-    "visible": true
-  },
   "saladstop": {
-    "x": 694,
+    "x": 672,
     "y": 0,
     "width": 72,
     "height": 63,
     "pixelRatio": 1,
     "visible": true
   },
-  "Kith Cafe 2": {
-    "x": 766,
+  "sfjuice": {
+    "x": 744,
     "y": 0,
-    "width": 72,
-    "height": 63,
+    "width": 73,
+    "height": 78,
     "pixelRatio": 1,
     "visible": true
   }
