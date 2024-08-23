@@ -47,7 +47,7 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "kithcafe": {
+  "kanadaya": {
     "x": 741,
     "y": 0,
     "width": 144,
@@ -55,7 +55,7 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "parkwayparade": {
+  "myvillage": {
     "x": 885,
     "y": 0,
     "width": 145,
@@ -63,7 +63,7 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "myvillage": {
+  "plq": {
     "x": 1030,
     "y": 0,
     "width": 145,
@@ -79,8 +79,16 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "plq": {
+  "kithcafe": {
     "x": 1319,
+    "y": 0,
+    "width": 144,
+    "height": 125,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "parkwayparade": {
+    "x": 1463,
     "y": 0,
     "width": 145,
     "height": 156,
@@ -88,7 +96,7 @@
     "visible": true
   },
   "sfjuice": {
-    "x": 1464,
+    "x": 1608,
     "y": 0,
     "width": 145,
     "height": 156,
