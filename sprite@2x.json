@@ -2,37 +2,53 @@
   "313": {
     "x": 0,
     "y": 0,
-    "width": 145,
-    "height": 156,
+    "width": 73,
+    "height": 78,
     "pixelRatio": 1,
     "visible": true
   },
   "ampstea": {
-    "x": 145,
+    "x": 73,
     "y": 0,
-    "width": 144,
-    "height": 125,
+    "width": 72,
+    "height": 63,
     "pixelRatio": 1,
     "visible": true
   },
   "burgerking": {
-    "x": 289,
+    "x": 145,
     "y": 0,
-    "width": 145,
-    "height": 156,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "CCL": {
+    "x": 218,
+    "y": 0,
+    "width": 36,
+    "height": 36,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "EWL": {
+    "x": 254,
+    "y": 0,
+    "width": 36,
+    "height": 36,
     "pixelRatio": 1,
     "visible": true
   },
   "gopizza": {
-    "x": 434,
+    "x": 290,
     "y": 0,
-    "width": 144,
-    "height": 125,
+    "width": 72,
+    "height": 63,
     "pixelRatio": 1,
     "visible": true
   },
   "greentree": {
-    "x": 578,
+    "x": 362,
     "y": 0,
     "width": 18,
     "height": 30,
@@ -40,66 +56,58 @@
     "visible": true
   },
   "jem": {
-    "x": 596,
+    "x": 380,
     "y": 0,
-    "width": 145,
-    "height": 156,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "kanadaya": {
-    "x": 741,
-    "y": 0,
-    "width": 144,
-    "height": 125,
+    "width": 73,
+    "height": 78,
     "pixelRatio": 1,
     "visible": true
   },
   "myvillage": {
-    "x": 885,
+    "x": 453,
     "y": 0,
-    "width": 145,
-    "height": 156,
+    "width": 73,
+    "height": 78,
     "pixelRatio": 1,
     "visible": true
   },
-  "plq": {
-    "x": 1030,
+  "NSL": {
+    "x": 526,
     "y": 0,
-    "width": 145,
-    "height": 156,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "saladstop": {
-    "x": 1175,
-    "y": 0,
-    "width": 144,
-    "height": 125,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "kithcafe": {
-    "x": 1319,
-    "y": 0,
-    "width": 144,
-    "height": 125,
+    "width": 36,
+    "height": 36,
     "pixelRatio": 1,
     "visible": true
   },
   "parkwayparade": {
-    "x": 1463,
+    "x": 562,
     "y": 0,
-    "width": 145,
-    "height": 156,
+    "width": 73,
+    "height": 78,
     "pixelRatio": 1,
     "visible": true
   },
-  "sfjuice": {
-    "x": 1608,
+  "plq": {
+    "x": 635,
     "y": 0,
-    "width": 145,
-    "height": 156,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "SV Icons": {
+    "x": 708,
+    "y": 0,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "saladstop": {
+    "x": 781,
+    "y": 0,
+    "width": 72,
+    "height": 63,
     "pixelRatio": 1,
     "visible": true
   }
