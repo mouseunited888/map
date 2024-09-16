@@ -1,22 +1,6 @@
 {
   "313": {
-    "x": 0,
-    "y": 0,
-    "width": 73,
-    "height": 78,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "ampstea": {
-    "x": 73,
-    "y": 0,
-    "width": 72,
-    "height": 63,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "burgerking": {
-    "x": 145,
+    "x": 181,
     "y": 0,
     "width": 73,
     "height": 78,
@@ -24,10 +8,26 @@
     "visible": true
   },
   "CCL": {
-    "x": 218,
+    "x": 0,
     "y": 0,
     "width": 36,
     "height": 36,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "burgerking": {
+    "x": 36,
+    "y": 0,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "ampstea": {
+    "x": 109,
+    "y": 0,
+    "width": 72,
+    "height": 63,
     "pixelRatio": 1,
     "visible": true
   },
@@ -55,7 +55,7 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "jem": {
+  "Milo": {
     "x": 380,
     "y": 0,
     "width": 73,
@@ -63,7 +63,7 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "myvillage": {
+  "jem": {
     "x": 453,
     "y": 0,
     "width": 73,
@@ -71,8 +71,16 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "NSL": {
+  "myvillage": {
     "x": 526,
+    "y": 0,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "NSL": {
+    "x": 599,
     "y": 0,
     "width": 36,
     "height": 36,
@@ -80,14 +88,6 @@
     "visible": true
   },
   "parkwayparade": {
-    "x": 562,
-    "y": 0,
-    "width": 73,
-    "height": 78,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "plq": {
     "x": 635,
     "y": 0,
     "width": 73,
@@ -95,7 +95,7 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "SV Icons": {
+  "plq": {
     "x": 708,
     "y": 0,
     "width": 73,
@@ -108,6 +108,14 @@
     "y": 0,
     "width": 72,
     "height": 63,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "SV Icons": {
+    "x": 853,
+    "y": 0,
+    "width": 73,
+    "height": 78,
     "pixelRatio": 1,
     "visible": true
   }
