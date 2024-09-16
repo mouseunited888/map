@@ -1,25 +1,17 @@
 {
   "313": {
-    "x": 181,
-    "y": 0,
-    "width": 73,
-    "height": 78,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "CCL": {
-    "x": 0,
-    "y": 0,
-    "width": 36,
-    "height": 36,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "burgerking": {
     "x": 36,
     "y": 0,
     "width": 73,
     "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "ccl": {
+    "x": 0,
+    "y": 0,
+    "width": 36,
+    "height": 36,
     "pixelRatio": 1,
     "visible": true
   },
@@ -31,7 +23,15 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "EWL": {
+  "etiqa": {
+    "x": 181,
+    "y": 0,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "ewl": {
     "x": 254,
     "y": 0,
     "width": 36,
@@ -39,8 +39,16 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "gopizza": {
+  "burgerking": {
     "x": 290,
+    "y": 0,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "gopizza": {
+    "x": 363,
     "y": 0,
     "width": 72,
     "height": 63,
@@ -48,47 +56,23 @@
     "visible": true
   },
   "greentree": {
-    "x": 362,
+    "x": 435,
     "y": 0,
     "width": 18,
     "height": 30,
     "pixelRatio": 1,
     "visible": true
   },
-  "Milo": {
-    "x": 380,
-    "y": 0,
-    "width": 73,
-    "height": 78,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "jem": {
+  "nsl": {
     "x": 453,
-    "y": 0,
-    "width": 73,
-    "height": 78,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "myvillage": {
-    "x": 526,
-    "y": 0,
-    "width": 73,
-    "height": 78,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "NSL": {
-    "x": 599,
     "y": 0,
     "width": 36,
     "height": 36,
     "pixelRatio": 1,
     "visible": true
   },
-  "parkwayparade": {
-    "x": 635,
+  "jem": {
+    "x": 489,
     "y": 0,
     "width": 73,
     "height": 78,
@@ -96,6 +80,22 @@
     "visible": true
   },
   "plq": {
+    "x": 562,
+    "y": 0,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "milo": {
+    "x": 635,
+    "y": 0,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "parkwayparade": {
     "x": 708,
     "y": 0,
     "width": 73,
@@ -111,8 +111,16 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "SV Icons": {
+  "spf": {
     "x": 853,
+    "y": 0,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "myvillage": {
+    "x": 926,
     "y": 0,
     "width": 73,
     "height": 78,
