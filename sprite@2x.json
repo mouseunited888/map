@@ -1,38 +1,22 @@
 {
   "313": {
-    "x": 36,
+    "x": 108,
     "y": 0,
     "width": 73,
     "height": 78,
     "pixelRatio": 1,
     "visible": true
   },
-  "ccl": {
-    "x": 0,
-    "y": 0,
-    "width": 36,
-    "height": 36,
-    "pixelRatio": 1,
-    "visible": true
-  },
   "ampstea": {
-    "x": 109,
+    "x": 0,
     "y": 0,
     "width": 72,
     "height": 63,
     "pixelRatio": 1,
     "visible": true
   },
-  "etiqa": {
-    "x": 181,
-    "y": 0,
-    "width": 73,
-    "height": 78,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "ewl": {
-    "x": 254,
+  "ccl": {
+    "x": 72,
     "y": 0,
     "width": 36,
     "height": 36,
@@ -40,7 +24,15 @@
     "visible": true
   },
   "burgerking": {
-    "x": 290,
+    "x": 181,
+    "y": 0,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "etiqa": {
+    "x": 254,
     "y": 0,
     "width": 73,
     "height": 78,
@@ -48,71 +40,47 @@
     "visible": true
   },
   "gopizza": {
-    "x": 363,
+    "x": 327,
     "y": 0,
     "width": 72,
     "height": 63,
     "pixelRatio": 1,
     "visible": true
   },
-  "greentree": {
-    "x": 435,
-    "y": 0,
-    "width": 18,
-    "height": 30,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "nsl": {
-    "x": 453,
+  "ewl": {
+    "x": 399,
     "y": 0,
     "width": 36,
     "height": 36,
     "pixelRatio": 1,
     "visible": true
   },
-  "jem": {
-    "x": 489,
-    "y": 0,
-    "width": 73,
-    "height": 78,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "plq": {
-    "x": 562,
-    "y": 0,
-    "width": 73,
-    "height": 78,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "milo": {
-    "x": 635,
-    "y": 0,
-    "width": 73,
-    "height": 78,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "parkwayparade": {
-    "x": 708,
-    "y": 0,
-    "width": 73,
-    "height": 78,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "saladstop": {
-    "x": 781,
+  "kithcafe": {
+    "x": 435,
     "y": 0,
     "width": 72,
     "height": 63,
     "pixelRatio": 1,
     "visible": true
   },
-  "spf": {
-    "x": 853,
+  "jem": {
+    "x": 507,
+    "y": 0,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "greentree": {
+    "x": 580,
+    "y": 0,
+    "width": 18,
+    "height": 30,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "milo": {
+    "x": 598,
     "y": 0,
     "width": 73,
     "height": 78,
@@ -120,7 +88,47 @@
     "visible": true
   },
   "myvillage": {
+    "x": 671,
+    "y": 0,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "nsl": {
+    "x": 744,
+    "y": 0,
+    "width": 36,
+    "height": 36,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "parkwayparade": {
+    "x": 780,
+    "y": 0,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "plq": {
+    "x": 853,
+    "y": 0,
+    "width": 73,
+    "height": 78,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "saladstop": {
     "x": 926,
+    "y": 0,
+    "width": 72,
+    "height": 63,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "spf": {
+    "x": 998,
     "y": 0,
     "width": 73,
     "height": 78,
