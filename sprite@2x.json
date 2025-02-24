@@ -1,14 +1,6 @@
 {
   "313": {
-    "x": 145,
-    "y": 0,
-    "width": 145,
-    "height": 156,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "etiqa": {
-    "x": 0,
+    "x": 144,
     "y": 0,
     "width": 145,
     "height": 156,
@@ -16,7 +8,7 @@
     "visible": true
   },
   "ampstea": {
-    "x": 290,
+    "x": 0,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -24,7 +16,7 @@
     "visible": true
   },
   "burgerking": {
-    "x": 434,
+    "x": 289,
     "y": 0,
     "width": 145,
     "height": 156,
@@ -32,7 +24,7 @@
     "visible": true
   },
   "ccl": {
-    "x": 579,
+    "x": 434,
     "y": 0,
     "width": 102,
     "height": 105,
@@ -40,7 +32,7 @@
     "visible": true
   },
   "coca": {
-    "x": 681,
+    "x": 536,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -48,7 +40,7 @@
     "visible": true
   },
   "eatersmarket": {
-    "x": 825,
+    "x": 680,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -56,10 +48,18 @@
     "visible": true
   },
   "ewl": {
-    "x": 969,
+    "x": 824,
     "y": 0,
     "width": 102,
     "height": 105,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "etiqa": {
+    "x": 926,
+    "y": 0,
+    "width": 145,
+    "height": 156,
     "pixelRatio": 1,
     "visible": true
   },
@@ -87,8 +87,16 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "greentree": {
+  "happycup": {
     "x": 1503,
+    "y": 0,
+    "width": 144,
+    "height": 125,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "greentree": {
+    "x": 1647,
     "y": 0,
     "width": 18,
     "height": 30,
@@ -96,18 +104,10 @@
     "visible": true
   },
   "jem": {
-    "x": 1521,
+    "x": 1665,
     "y": 0,
     "width": 145,
     "height": 156,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "happycup": {
-    "x": 1666,
-    "y": 0,
-    "width": 144,
-    "height": 125,
     "pixelRatio": 1,
     "visible": true
   },
@@ -119,7 +119,7 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "kanadaya": {
+  "kakurega": {
     "x": 1954,
     "y": 0,
     "width": 144,
@@ -127,7 +127,7 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "kakurega": {
+  "kanadaya": {
     "x": 2098,
     "y": 0,
     "width": 144,
@@ -151,7 +151,7 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "milo": {
+  "mastercard": {
     "x": 2530,
     "y": 0,
     "width": 145,
@@ -167,7 +167,7 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "myvillage": {
+  "milo": {
     "x": 2819,
     "y": 0,
     "width": 145,
@@ -175,8 +175,16 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "nsl": {
+  "myvillage": {
     "x": 2964,
+    "y": 0,
+    "width": 145,
+    "height": 156,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "nsl": {
+    "x": 3109,
     "y": 0,
     "width": 102,
     "height": 105,
@@ -184,14 +192,6 @@
     "visible": true
   },
   "parkwayparade": {
-    "x": 3066,
-    "y": 0,
-    "width": 145,
-    "height": 156,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "plq": {
     "x": 3211,
     "y": 0,
     "width": 145,
@@ -199,16 +199,24 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "rock": {
+  "playmade": {
     "x": 3356,
     "y": 0,
-    "width": 400,
-    "height": 242,
+    "width": 144,
+    "height": 125,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "plq": {
+    "x": 3500,
+    "y": 0,
+    "width": 145,
+    "height": 156,
     "pixelRatio": 1,
     "visible": true
   },
   "projectsend": {
-    "x": 3756,
+    "x": 3645,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -216,30 +224,22 @@
     "visible": true
   },
   "saladstop": {
-    "x": 3900,
+    "x": 3789,
     "y": 0,
     "width": 144,
     "height": 125,
     "pixelRatio": 1,
     "visible": true
   },
-  "sfjuice": {
-    "x": 4044,
+  "rock": {
+    "x": 3933,
     "y": 0,
-    "width": 145,
-    "height": 156,
+    "width": 400,
+    "height": 242,
     "pixelRatio": 1,
     "visible": true
   },
-  "thefragmentroom": {
-    "x": 4189,
-    "y": 0,
-    "width": 144,
-    "height": 125,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "spf": {
+  "sentosa": {
     "x": 4333,
     "y": 0,
     "width": 145,
@@ -247,56 +247,32 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "thejellyhearts": {
+  "spf": {
     "x": 4478,
-    "y": 0,
-    "width": 144,
-    "height": 125,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "spinpainthouse": {
-    "x": 4622,
-    "y": 0,
-    "width": 153,
-    "height": 153,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "playmade": {
-    "x": 4775,
-    "y": 0,
-    "width": 144,
-    "height": 125,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "tuktukcha": {
-    "x": 4919,
-    "y": 0,
-    "width": 144,
-    "height": 125,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "tigerbrokers": {
-    "x": 5063,
     "y": 0,
     "width": 145,
     "height": 156,
     "pixelRatio": 1,
     "visible": true
   },
-  "tada": {
-    "x": 5208,
+  "sfjuice": {
+    "x": 4623,
     "y": 0,
-    "width": 144,
-    "height": 125,
+    "width": 145,
+    "height": 156,
     "pixelRatio": 1,
     "visible": true
   },
-  "theeyesinc": {
-    "x": 5352,
+  "spinpainthouse": {
+    "x": 4768,
+    "y": 0,
+    "width": 153,
+    "height": 153,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "tada": {
+    "x": 4921,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -304,10 +280,50 @@
     "visible": true
   },
   "splatpainthouse": {
-    "x": 5496,
+    "x": 5065,
     "y": 0,
     "width": 144,
     "height": 125,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "theeyesinc": {
+    "x": 5209,
+    "y": 0,
+    "width": 144,
+    "height": 125,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "thejellyhearts": {
+    "x": 5353,
+    "y": 0,
+    "width": 144,
+    "height": 125,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "tuktukcha": {
+    "x": 5497,
+    "y": 0,
+    "width": 144,
+    "height": 125,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "thefragmentroom": {
+    "x": 5641,
+    "y": 0,
+    "width": 144,
+    "height": 125,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "tigerbrokers": {
+    "x": 5785,
+    "y": 0,
+    "width": 145,
+    "height": 156,
     "pixelRatio": 1,
     "visible": true
   }
