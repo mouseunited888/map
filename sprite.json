@@ -207,8 +207,16 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "parkwayparade": {
+  "onyafood": {
     "x": 3499,
+    "y": 0,
+    "width": 144,
+    "height": 125,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "parkwayparade": {
+    "x": 3643,
     "y": 0,
     "width": 145,
     "height": 156,
@@ -216,7 +224,7 @@
     "visible": true
   },
   "playmade": {
-    "x": 3644,
+    "x": 3788,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -224,7 +232,7 @@
     "visible": true
   },
   "plq": {
-    "x": 3788,
+    "x": 3932,
     "y": 0,
     "width": 145,
     "height": 156,
@@ -232,7 +240,7 @@
     "visible": true
   },
   "projectsend": {
-    "x": 3933,
+    "x": 4077,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -240,7 +248,7 @@
     "visible": true
   },
   "rock": {
-    "x": 4077,
+    "x": 4221,
     "y": 0,
     "width": 400,
     "height": 242,
@@ -248,7 +256,7 @@
     "visible": true
   },
   "saladstop": {
-    "x": 4477,
+    "x": 4621,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -256,7 +264,7 @@
     "visible": true
   },
   "sentosa": {
-    "x": 4621,
+    "x": 4765,
     "y": 0,
     "width": 145,
     "height": 156,
@@ -264,7 +272,7 @@
     "visible": true
   },
   "sfjuice": {
-    "x": 4766,
+    "x": 4910,
     "y": 0,
     "width": 145,
     "height": 156,
@@ -272,7 +280,7 @@
     "visible": true
   },
   "spf": {
-    "x": 4911,
+    "x": 5055,
     "y": 0,
     "width": 145,
     "height": 156,
@@ -280,7 +288,7 @@
     "visible": true
   },
   "spinpainthouse": {
-    "x": 5056,
+    "x": 5200,
     "y": 0,
     "width": 153,
     "height": 153,
@@ -288,14 +296,6 @@
     "visible": true
   },
   "splatpainthouse": {
-    "x": 5209,
-    "y": 0,
-    "width": 144,
-    "height": 125,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "tada": {
     "x": 5353,
     "y": 0,
     "width": 144,
@@ -303,7 +303,7 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "theeyesinc": {
+  "tada": {
     "x": 5497,
     "y": 0,
     "width": 144,
@@ -311,7 +311,7 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "thefragmentroom": {
+  "theeyesinc": {
     "x": 5641,
     "y": 0,
     "width": 144,
@@ -319,7 +319,7 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "thejellyhearts": {
+  "thefragmentroom": {
     "x": 5785,
     "y": 0,
     "width": 144,
@@ -327,8 +327,16 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "tigerbrokers": {
+  "thejellyhearts": {
     "x": 5929,
+    "y": 0,
+    "width": 144,
+    "height": 125,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "tigerbrokers": {
+    "x": 6073,
     "y": 0,
     "width": 145,
     "height": 156,
@@ -336,7 +344,7 @@
     "visible": true
   },
   "tuktukcha": {
-    "x": 6074,
+    "x": 6218,
     "y": 0,
     "width": 144,
     "height": 125,
