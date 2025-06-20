@@ -87,8 +87,32 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "forewordcoffee": {
+  "foodandbeverages-default": {
     "x": 1503,
+    "y": 0,
+    "width": 134,
+    "height": 134,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "foodandbeverages-toofaraway": {
+    "x": 1637,
+    "y": 0,
+    "width": 134,
+    "height": 134,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "foodandbeverages-visited": {
+    "x": 1771,
+    "y": 0,
+    "width": 134,
+    "height": 134,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "forewordcoffee": {
+    "x": 1905,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -96,7 +120,7 @@
     "visible": true
   },
   "gopizza": {
-    "x": 1647,
+    "x": 2049,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -104,7 +128,7 @@
     "visible": true
   },
   "greentree": {
-    "x": 1791,
+    "x": 2193,
     "y": 0,
     "width": 18,
     "height": 30,
@@ -112,15 +136,39 @@
     "visible": true
   },
   "happycup": {
-    "x": 1809,
+    "x": 2211,
     "y": 0,
     "width": 144,
     "height": 125,
     "pixelRatio": 1,
     "visible": true
   },
+  "healthandwellness-default": {
+    "x": 2355,
+    "y": 0,
+    "width": 134,
+    "height": 134,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "healthandwellness-toofaraway": {
+    "x": 2489,
+    "y": 0,
+    "width": 134,
+    "height": 134,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "healthandwellness-visited": {
+    "x": 2623,
+    "y": 0,
+    "width": 134,
+    "height": 134,
+    "pixelRatio": 1,
+    "visible": true
+  },
   "jem": {
-    "x": 1953,
+    "x": 2757,
     "y": 0,
     "width": 145,
     "height": 156,
@@ -128,7 +176,7 @@
     "visible": true
   },
   "jollibean": {
-    "x": 2098,
+    "x": 2902,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -136,15 +184,7 @@
     "visible": true
   },
   "kakurega": {
-    "x": 2242,
-    "y": 0,
-    "width": 144,
-    "height": 125,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "kanadaya": {
-    "x": 2386,
+    "x": 3046,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -152,7 +192,7 @@
     "visible": true
   },
   "kazan": {
-    "x": 2530,
+    "x": 3190,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -160,7 +200,7 @@
     "visible": true
   },
   "kindkones": {
-    "x": 2674,
+    "x": 3334,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -168,7 +208,7 @@
     "visible": true
   },
   "kithcafe": {
-    "x": 2818,
+    "x": 3478,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -176,7 +216,7 @@
     "visible": true
   },
   "mastercard": {
-    "x": 2962,
+    "x": 3622,
     "y": 0,
     "width": 145,
     "height": 156,
@@ -184,7 +224,7 @@
     "visible": true
   },
   "megaadventure": {
-    "x": 3107,
+    "x": 3767,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -192,7 +232,7 @@
     "visible": true
   },
   "milo": {
-    "x": 3251,
+    "x": 3911,
     "y": 0,
     "width": 145,
     "height": 156,
@@ -200,7 +240,7 @@
     "visible": true
   },
   "mronigiri": {
-    "x": 3396,
+    "x": 4056,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -208,7 +248,7 @@
     "visible": true
   },
   "myvillage": {
-    "x": 3540,
+    "x": 4200,
     "y": 0,
     "width": 145,
     "height": 156,
@@ -216,7 +256,7 @@
     "visible": true
   },
   "nsl": {
-    "x": 3685,
+    "x": 4345,
     "y": 0,
     "width": 102,
     "height": 105,
@@ -224,15 +264,7 @@
     "visible": true
   },
   "onyafood": {
-    "x": 3787,
-    "y": 0,
-    "width": 144,
-    "height": 125,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "playmade": {
-    "x": 3931,
+    "x": 4447,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -240,15 +272,23 @@
     "visible": true
   },
   "parkwayparade": {
-    "x": 4075,
+    "x": 4591,
     "y": 0,
     "width": 145,
     "height": 156,
     "pixelRatio": 1,
     "visible": true
   },
+  "playmade": {
+    "x": 4736,
+    "y": 0,
+    "width": 144,
+    "height": 125,
+    "pixelRatio": 1,
+    "visible": true
+  },
   "plq": {
-    "x": 4220,
+    "x": 4880,
     "y": 0,
     "width": 145,
     "height": 156,
@@ -256,15 +296,63 @@
     "visible": true
   },
   "projectsend": {
-    "x": 4365,
+    "x": 5025,
     "y": 0,
     "width": 144,
     "height": 125,
     "pixelRatio": 1,
     "visible": true
   },
+  "recreationandoutdoors-default": {
+    "x": 5169,
+    "y": 0,
+    "width": 134,
+    "height": 134,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "recreationandoutdoors-toofaraway": {
+    "x": 5303,
+    "y": 0,
+    "width": 134,
+    "height": 134,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "recreationandoutdoors-visited": {
+    "x": 5437,
+    "y": 0,
+    "width": 134,
+    "height": 134,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "retailandconvenience-default": {
+    "x": 5571,
+    "y": 0,
+    "width": 134,
+    "height": 134,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "retailandconvenience-toofaraway": {
+    "x": 5705,
+    "y": 0,
+    "width": 134,
+    "height": 134,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "retailandconvenience-visited": {
+    "x": 5839,
+    "y": 0,
+    "width": 134,
+    "height": 134,
+    "pixelRatio": 1,
+    "visible": true
+  },
   "rock": {
-    "x": 4509,
+    "x": 5973,
     "y": 0,
     "width": 400,
     "height": 242,
@@ -272,7 +360,7 @@
     "visible": true
   },
   "saladstop": {
-    "x": 4909,
+    "x": 6373,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -280,7 +368,7 @@
     "visible": true
   },
   "sentosa": {
-    "x": 5053,
+    "x": 6517,
     "y": 0,
     "width": 145,
     "height": 156,
@@ -288,7 +376,7 @@
     "visible": true
   },
   "sfjuice": {
-    "x": 5198,
+    "x": 6662,
     "y": 0,
     "width": 145,
     "height": 156,
@@ -296,7 +384,7 @@
     "visible": true
   },
   "spf": {
-    "x": 5343,
+    "x": 6807,
     "y": 0,
     "width": 145,
     "height": 156,
@@ -304,7 +392,7 @@
     "visible": true
   },
   "spinpainthouse": {
-    "x": 5488,
+    "x": 6952,
     "y": 0,
     "width": 153,
     "height": 153,
@@ -312,7 +400,7 @@
     "visible": true
   },
   "splatpainthouse": {
-    "x": 5641,
+    "x": 7105,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -320,7 +408,7 @@
     "visible": true
   },
   "tada": {
-    "x": 5785,
+    "x": 7249,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -328,7 +416,7 @@
     "visible": true
   },
   "theeyesinc": {
-    "x": 5929,
+    "x": 7393,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -336,7 +424,7 @@
     "visible": true
   },
   "thefragmentroom": {
-    "x": 6073,
+    "x": 7537,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -344,7 +432,7 @@
     "visible": true
   },
   "thejellyhearts": {
-    "x": 6217,
+    "x": 7681,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -352,15 +440,39 @@
     "visible": true
   },
   "tigerbrokers": {
-    "x": 6361,
+    "x": 7825,
     "y": 0,
     "width": 145,
     "height": 156,
     "pixelRatio": 1,
     "visible": true
   },
+  "transportandconnectivity-default": {
+    "x": 7970,
+    "y": 0,
+    "width": 134,
+    "height": 134,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "transportandconnectivity-toofaraway": {
+    "x": 8104,
+    "y": 0,
+    "width": 134,
+    "height": 134,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "transportandconnectivity-visited": {
+    "x": 8238,
+    "y": 0,
+    "width": 134,
+    "height": 134,
+    "pixelRatio": 1,
+    "visible": true
+  },
   "tuktukcha": {
-    "x": 6506,
+    "x": 8372,
     "y": 0,
     "width": 144,
     "height": 125,
