@@ -1,13 +1,5 @@
 {
   "313": {
-    "x": 940,
-    "y": 0,
-    "width": 145,
-    "height": 156,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "burgerking": {
     "x": 0,
     "y": 0,
     "width": 145,
@@ -15,24 +7,16 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "Chinese Garden Map Icon": {
+  "Bishan-Ang Mo Kio Park": {
     "x": 145,
     "y": 0,
-    "width": 391,
-    "height": 377,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "Bishan Ang Mo Kio Park Map Icon": {
-    "x": 536,
-    "y": 0,
-    "width": 404,
-    "height": 363,
+    "width": 426,
+    "height": 394,
     "pixelRatio": 1,
     "visible": true
   },
   "ampstea": {
-    "x": 1085,
+    "x": 571,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -40,15 +24,31 @@
     "visible": true
   },
   "ccl": {
-    "x": 1229,
+    "x": 715,
     "y": 0,
     "width": 102,
     "height": 105,
     "pixelRatio": 1,
     "visible": true
   },
+  "burgerking": {
+    "x": 817,
+    "y": 0,
+    "width": 145,
+    "height": 156,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "Chinese Garden": {
+    "x": 962,
+    "y": 0,
+    "width": 426,
+    "height": 394,
+    "pixelRatio": 1,
+    "visible": true
+  },
   "coca": {
-    "x": 1331,
+    "x": 1388,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -56,23 +56,23 @@
     "visible": true
   },
   "DBS": {
-    "x": 1475,
+    "x": 1532,
     "y": 0,
     "width": 289,
     "height": 312,
     "pixelRatio": 1,
     "visible": true
   },
-  "Dragon Playground Map Icon": {
-    "x": 1764,
+  "Dragon Playground": {
+    "x": 1821,
     "y": 0,
-    "width": 397,
-    "height": 340,
+    "width": 426,
+    "height": 394,
     "pixelRatio": 1,
     "visible": true
   },
   "eatersmarket": {
-    "x": 2161,
+    "x": 2247,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -80,7 +80,7 @@
     "visible": true
   },
   "etiqa": {
-    "x": 2305,
+    "x": 2391,
     "y": 0,
     "width": 145,
     "height": 156,
@@ -88,7 +88,7 @@
     "visible": true
   },
   "ewl": {
-    "x": 2450,
+    "x": 2536,
     "y": 0,
     "width": 102,
     "height": 105,
@@ -96,7 +96,7 @@
     "visible": true
   },
   "firststorycafe": {
-    "x": 2552,
+    "x": 2638,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -104,167 +104,151 @@
     "visible": true
   },
   "forewordcoffee": {
-    "x": 2696,
+    "x": 2782,
     "y": 0,
     "width": 144,
     "height": 125,
     "pixelRatio": 1,
     "visible": true
   },
-  "Former Cathay Building Map Icon": {
-    "x": 2840,
+  "Former Cathay Building": {
+    "x": 2926,
     "y": 0,
-    "width": 425,
-    "height": 360,
+    "width": 426,
+    "height": 394,
     "pixelRatio": 1,
     "visible": true
   },
-  "Former Hill Street Police Station Map Icon": {
-    "x": 3265,
+  "Former Hill Street Police Station": {
+    "x": 3352,
     "y": 0,
-    "width": 407,
-    "height": 354,
+    "width": 426,
+    "height": 394,
     "pixelRatio": 1,
     "visible": true
   },
-  "Former Tanjong Pagar Railway Station Map Icon": {
-    "x": 3672,
+  "Former Tanjong Pagar Railway Station": {
+    "x": 3778,
     "y": 0,
-    "width": 409,
-    "height": 261,
+    "width": 426,
+    "height": 394,
     "pixelRatio": 1,
     "visible": true
   },
-  "Former Telok Ayer Market Map Icon": {
-    "x": 4081,
+  "Former Telok Ayer Market": {
+    "x": 4204,
     "y": 0,
-    "width": 405,
-    "height": 266,
+    "width": 426,
+    "height": 394,
     "pixelRatio": 1,
     "visible": true
   },
-  "Fort Canning Park Map Icon": {
-    "x": 4486,
+  "Fort Canning Park": {
+    "x": 4630,
     "y": 0,
-    "width": 415,
-    "height": 348,
+    "width": 426,
+    "height": 394,
     "pixelRatio": 1,
     "visible": true
   },
-  "Fort Canning Tree Tunnel Map Icon": {
-    "x": 4901,
+  "Fort Canning Tree Tunnel": {
+    "x": 5056,
     "y": 0,
-    "width": 400,
-    "height": 353,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "Fuk Tak Chi Museum and Temple Map Icon": {
-    "x": 5301,
-    "y": 0,
-    "width": 405,
-    "height": 355,
+    "width": 426,
+    "height": 394,
     "pixelRatio": 1,
     "visible": true
   },
   "gopizza": {
-    "x": 5706,
+    "x": 5482,
     "y": 0,
     "width": 144,
     "height": 125,
     "pixelRatio": 1,
     "visible": true
   },
-  "Geylang Serai Map Icon": {
-    "x": 5850,
-    "y": 0,
-    "width": 404,
-    "height": 370,
-    "pixelRatio": 1,
-    "visible": true
-  },
   "greentree": {
-    "x": 6254,
+    "x": 5626,
     "y": 0,
     "width": 18,
     "height": 30,
     "pixelRatio": 1,
     "visible": true
   },
+  "Fuk Tak Chi Museum and Temple": {
+    "x": 5644,
+    "y": 0,
+    "width": 426,
+    "height": 394,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "Geylang Serai": {
+    "x": 6070,
+    "y": 0,
+    "width": 426,
+    "height": 394,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "Haw Par Villa": {
+    "x": 6496,
+    "y": 0,
+    "width": 426,
+    "height": 394,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "happycup": {
+    "x": 6922,
+    "y": 0,
+    "width": 144,
+    "height": 125,
+    "pixelRatio": 1,
+    "visible": true
+  },
   "jem": {
-    "x": 6272,
+    "x": 7066,
     "y": 0,
     "width": 145,
     "height": 156,
     "pixelRatio": 1,
     "visible": true
   },
-  "happycup": {
-    "x": 6417,
-    "y": 0,
-    "width": 144,
-    "height": 125,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "Haw Par Villa Map Icon": {
-    "x": 6561,
-    "y": 0,
-    "width": 401,
-    "height": 383,
-    "pixelRatio": 1,
-    "visible": true
-  },
   "jollibean": {
-    "x": 6962,
+    "x": 7211,
     "y": 0,
     "width": 144,
     "height": 125,
     "pixelRatio": 1,
     "visible": true
   },
-  "Joo Chiat Shophouses Map Icon": {
-    "x": 7106,
+  "Jurong Brickworks Industry and Dragon Kilns": {
+    "x": 7355,
     "y": 0,
-    "width": 406,
-    "height": 361,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "Jurong Brickworks Industry and Dragon Kilns Map Icons": {
-    "x": 7512,
-    "y": 0,
-    "width": 396,
-    "height": 333,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "Kampong Lorong Buangkok Map Icon": {
-    "x": 7908,
-    "y": 0,
-    "width": 391,
-    "height": 300,
+    "width": 426,
+    "height": 394,
     "pixelRatio": 1,
     "visible": true
   },
   "kakurega": {
-    "x": 8299,
+    "x": 7781,
     "y": 0,
     "width": 144,
     "height": 125,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "Katong & Joo Chiat Shophouses": {
+    "x": 7925,
+    "y": 0,
+    "width": 426,
+    "height": 394,
     "pixelRatio": 1,
     "visible": true
   },
   "kanadaya": {
-    "x": 8443,
-    "y": 0,
-    "width": 144,
-    "height": 125,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "kindkones": {
-    "x": 8587,
+    "x": 8351,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -272,39 +256,55 @@
     "visible": true
   },
   "kithcafe": {
-    "x": 8731,
+    "x": 8495,
     "y": 0,
     "width": 144,
     "height": 125,
     "pixelRatio": 1,
     "visible": true
   },
-  "Marina Bay Sands Map Icon": {
-    "x": 8875,
-    "y": 0,
-    "width": 396,
-    "height": 377,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "megaadventure": {
-    "x": 9271,
+  "kindkones": {
+    "x": 8639,
     "y": 0,
     "width": 144,
     "height": 125,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "Kampong Lorong Buangkok": {
+    "x": 8783,
+    "y": 0,
+    "width": 426,
+    "height": 394,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "Marina Bay Sands": {
+    "x": 9209,
+    "y": 0,
+    "width": 426,
+    "height": 394,
     "pixelRatio": 1,
     "visible": true
   },
   "mastercard": {
-    "x": 9415,
+    "x": 9635,
     "y": 0,
     "width": 145,
     "height": 156,
     "pixelRatio": 1,
     "visible": true
   },
+  "megaadventure": {
+    "x": 9780,
+    "y": 0,
+    "width": 144,
+    "height": 125,
+    "pixelRatio": 1,
+    "visible": true
+  },
   "milo": {
-    "x": 9560,
+    "x": 9924,
     "y": 0,
     "width": 145,
     "height": 156,
@@ -312,7 +312,7 @@
     "visible": true
   },
   "mronigiri": {
-    "x": 9705,
+    "x": 10069,
     "y": 0,
     "width": 144,
     "height": 125,
@@ -320,7 +320,7 @@
     "visible": true
   },
   "nsl": {
-    "x": 9849,
+    "x": 10213,
     "y": 0,
     "width": 102,
     "height": 105,
@@ -328,7 +328,7 @@
     "visible": true
   },
   "myvillage": {
-    "x": 9951,
+    "x": 10315,
     "y": 0,
     "width": 145,
     "height": 156,
@@ -336,15 +336,7 @@
     "visible": true
   },
   "parkwayparade": {
-    "x": 10096,
-    "y": 0,
-    "width": 145,
-    "height": 156,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "plq": {
-    "x": 10241,
+    "x": 10460,
     "y": 0,
     "width": 145,
     "height": 156,
@@ -352,118 +344,102 @@
     "visible": true
   },
   "playmade": {
-    "x": 10386,
+    "x": 10605,
     "y": 0,
     "width": 144,
     "height": 125,
     "pixelRatio": 1,
     "visible": true
   },
-  "projectsend": {
-    "x": 10530,
+  "plq": {
+    "x": 10749,
+    "y": 0,
+    "width": 145,
+    "height": 156,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "Raffles Hotel": {
+    "x": 10894,
+    "y": 0,
+    "width": 426,
+    "height": 394,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "sfjuice": {
+    "x": 11320,
+    "y": 0,
+    "width": 145,
+    "height": 156,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "saladstop": {
+    "x": 11465,
     "y": 0,
     "width": 144,
     "height": 125,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "Singapore Botanic Gardens": {
+    "x": 11609,
+    "y": 0,
+    "width": 426,
+    "height": 394,
     "pixelRatio": 1,
     "visible": true
   },
   "rock": {
-    "x": 10674,
+    "x": 12035,
     "y": 0,
     "width": 400,
     "height": 242,
     "pixelRatio": 1,
     "visible": true
   },
-  "saladstop": {
-    "x": 11074,
+  "sentosa": {
+    "x": 12435,
+    "y": 0,
+    "width": 145,
+    "height": 156,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "projectsend": {
+    "x": 12580,
     "y": 0,
     "width": 144,
     "height": 125,
     "pixelRatio": 1,
     "visible": true
   },
-  "sentosa": {
-    "x": 11218,
-    "y": 0,
-    "width": 145,
-    "height": 156,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "Raffles Hotel Map Icon": {
-    "x": 11363,
-    "y": 0,
-    "width": 404,
-    "height": 363,
-    "pixelRatio": 1,
-    "visible": true
-  },
   "spf": {
-    "x": 11767,
+    "x": 12724,
     "y": 0,
     "width": 145,
     "height": 156,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "sfjuice": {
-    "x": 11912,
-    "y": 0,
-    "width": 145,
-    "height": 156,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "Singapore Botanic Gardens Map Icon": {
-    "x": 12057,
-    "y": 0,
-    "width": 414,
-    "height": 394,
     "pixelRatio": 1,
     "visible": true
   },
   "spinpainthouse": {
-    "x": 12471,
+    "x": 12869,
     "y": 0,
     "width": 153,
     "height": 153,
     "pixelRatio": 1,
     "visible": true
   },
+  "Sri Veeramakaliamman Temple": {
+    "x": 13022,
+    "y": 0,
+    "width": 426,
+    "height": 394,
+    "pixelRatio": 1,
+    "visible": true
+  },
   "splatpainthouse": {
-    "x": 12624,
-    "y": 0,
-    "width": 144,
-    "height": 125,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "Sri Veeramakaliamman Temple Map Icon": {
-    "x": 12768,
-    "y": 0,
-    "width": 392,
-    "height": 375,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "tada": {
-    "x": 13160,
-    "y": 0,
-    "width": 144,
-    "height": 125,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "theeyesinc": {
-    "x": 13304,
-    "y": 0,
-    "width": 144,
-    "height": 125,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "thefragmentroom": {
     "x": 13448,
     "y": 0,
     "width": 144,
@@ -471,7 +447,7 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "thejellyhearts": {
+  "theeyesinc": {
     "x": 13592,
     "y": 0,
     "width": 144,
@@ -479,32 +455,56 @@
     "pixelRatio": 1,
     "visible": true
   },
-  "tigerbrokers": {
+  "thefragmentroom": {
     "x": 13736,
-    "y": 0,
-    "width": 145,
-    "height": 156,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "Woodbridge Museum Map Icon": {
-    "x": 13881,
-    "y": 0,
-    "width": 404,
-    "height": 275,
-    "pixelRatio": 1,
-    "visible": true
-  },
-  "tuktukcha": {
-    "x": 14285,
     "y": 0,
     "width": 144,
     "height": 125,
     "pixelRatio": 1,
     "visible": true
   },
+  "tada": {
+    "x": 13880,
+    "y": 0,
+    "width": 144,
+    "height": 125,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "tigerbrokers": {
+    "x": 14024,
+    "y": 0,
+    "width": 145,
+    "height": 156,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "thejellyhearts": {
+    "x": 14169,
+    "y": 0,
+    "width": 144,
+    "height": 125,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "tuktukcha": {
+    "x": 14313,
+    "y": 0,
+    "width": 144,
+    "height": 125,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "Woodbridge Museum": {
+    "x": 14457,
+    "y": 0,
+    "width": 426,
+    "height": 394,
+    "pixelRatio": 1,
+    "visible": true
+  },
   "Huntingstop": {
-    "x": 14429,
+    "x": 14883,
     "y": 0,
     "width": 1096,
     "height": 1330,
@@ -512,7 +512,7 @@
     "visible": true
   },
   "Megastop": {
-    "x": 15525,
+    "x": 15979,
     "y": 0,
     "width": 1661,
     "height": 1489,
